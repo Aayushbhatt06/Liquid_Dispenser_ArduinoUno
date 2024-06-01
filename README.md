@@ -15,7 +15,7 @@ Introducing our Liquid Dispenser, a precision device designed to select from thr
 ### 5. 12v power supply.
 ### 6. other components like wires etc.
 
-##Features
+## Features
 ### 1. Peristaltic Pump: Ensures contamination-free dispensing by keeping the liquid inside the tube.
 ### 2. Accurate Measurement: Dispenses liquid with precision, essential for pharmaceutical applications.
 ### 3. User-Friendly: Simple input via the Arduino IDE's serial monitor for selecting containers and specifying volumes.
